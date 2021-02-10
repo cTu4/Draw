@@ -1,1 +1,181 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T17:38:53.482Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.3.0" etag="rcwgQTOcWQ4C9WsWNi6h" type="github"><diagram id="RZcqm5jKMnTqW-Yg7BGr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-10T18:06:35.178Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mGnbs7TkX9hpqTe5D44B" version="14.3.0" type="github">
+  <diagram id="RZcqm5jKMnTqW-Yg7BGr" name="Page-1">
+    <mxGraphModel dx="1857" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pkAmJe1-XS93rfST7wVr-15" value="Страны" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-15">
+          <mxGeometry y="30" width="300" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-17" value="Идентификатор страны" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-16">
+          <mxGeometry width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-18" value="country_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-16">
+          <mxGeometry x="150" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-15">
+          <mxGeometry y="68" width="300" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-21" value="Наименование страны на русском" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-20">
+          <mxGeometry width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-22" value="tittle_ru" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-20">
+          <mxGeometry x="150" width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-15">
+          <mxGeometry y="119" width="300" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-25" value="Наименование страны на английском" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-24">
+          <mxGeometry width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-26" value="tittle_en" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-24">
+          <mxGeometry x="150" width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-28" value="Регионы" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="300" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-38" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-28">
+          <mxGeometry y="30" width="300" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-39" value="Идентификатор региона" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-38">
+          <mxGeometry width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-40" value="region_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-38">
+          <mxGeometry x="150" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-28">
+          <mxGeometry y="68" width="300" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-30" value="Идентификатор страны" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-29">
+          <mxGeometry width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-31" value="country_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-29">
+          <mxGeometry x="150" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-28">
+          <mxGeometry y="106" width="300" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-33" value="Наименование региона&amp;nbsp;на русском" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-32">
+          <mxGeometry width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-34" value="tittle_ru" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-32">
+          <mxGeometry x="150" width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-35" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-28">
+          <mxGeometry y="157" width="300" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-36" value="Наименование региона&amp;nbsp;на английском" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-35">
+          <mxGeometry width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-37" value="tittle_en" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-35">
+          <mxGeometry x="150" width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-41" value="&lt;div&gt;ru - Русский, ua - Украинский, be - Белорусский,&amp;nbsp;&lt;/div&gt;&lt;div&gt;en - Английский, es - Испанский, pt - Португальский,&amp;nbsp;&lt;/div&gt;&lt;div&gt;de - Немецкий, fr - Французский, it - Итальянский,&amp;nbsp;&lt;/div&gt;&lt;div&gt;pl - Польский, ja - Японский, lt - Литовский,&amp;nbsp;&lt;/div&gt;&lt;div&gt;lv - Латышский, cz - Чешский&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="-20" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pkAmJe1-XS93rfST7wVr-29" target="pkAmJe1-XS93rfST7wVr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-43" value="Города" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="300" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-43">
+          <mxGeometry y="30" width="300" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-57" value="&lt;span&gt;Идентификатор города&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-56">
+          <mxGeometry width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-58" value="city_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-56">
+          <mxGeometry x="150" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-43">
+          <mxGeometry y="68" width="300" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-45" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Идентификатор страны&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-44">
+          <mxGeometry width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-46" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;country_id&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-44">
+          <mxGeometry x="150" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-47" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-43">
+          <mxGeometry y="106" width="300" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-48" value="Идентификатор региона" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-47">
+          <mxGeometry width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-49" value="region_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-47">
+          <mxGeometry x="150" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-43">
+          <mxGeometry y="144" width="300" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-51" value="Наименование города&amp;nbsp;на русском" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-50">
+          <mxGeometry width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-52" value="tittle_ru" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-50">
+          <mxGeometry x="150" width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-53" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-43">
+          <mxGeometry y="195" width="300" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-54" value="Наименование города&amp;nbsp;на английском" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-53">
+          <mxGeometry width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-55" value="tittle_en" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-53">
+          <mxGeometry x="150" width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pkAmJe1-XS93rfST7wVr-44" target="pkAmJe1-XS93rfST7wVr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pkAmJe1-XS93rfST7wVr-47" target="pkAmJe1-XS93rfST7wVr-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-65" value="Описание" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="320" width="300" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-65">
+          <mxGeometry y="30" width="300" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-67" value="&lt;span&gt;Идентификатор описания&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-66">
+          <mxGeometry width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-68" value="description_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-66">
+          <mxGeometry x="150" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-65">
+          <mxGeometry y="68" width="300" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-70" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Идентификатор города&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-69">
+          <mxGeometry width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-71" value="city_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-69">
+          <mxGeometry x="150" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-75" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-65">
+          <mxGeometry y="106" width="300" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-76" value="Описание на русском" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-75">
+          <mxGeometry width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-77" value="description_ru" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-75">
+          <mxGeometry x="150" width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-78" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-65">
+          <mxGeometry y="157" width="300" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-79" value="Описание на английском" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-78">
+          <mxGeometry width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-80" value="description_en" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pkAmJe1-XS93rfST7wVr-78">
+          <mxGeometry x="150" width="150" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pkAmJe1-XS93rfST7wVr-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pkAmJe1-XS93rfST7wVr-69" target="pkAmJe1-XS93rfST7wVr-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
