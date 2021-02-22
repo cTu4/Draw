@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T17:25:53.492Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.3.0" etag="2Cv10BsekomFGPkWNEFz" type="github"><diagram id="BOl7sacGEth_Wvz2Z95w">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-22T08:14:10.399Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="jFskRdNHaEsxipKlLLHs" version="14.4.2" type="github">
+  <diagram id="BOl7sacGEth_Wvz2Z95w" name="Page-1">
+    <mxGraphModel dx="1030" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DkASEynsqYViL9_Ah012-1" value="Table" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="290" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="30" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-3" value="Наименование" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-2">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;name&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-2">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="70" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-33" value="Адрес" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-32">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-34" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;pickup_address&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-32">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="110" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-30" value="Телефон" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-29">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-31" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;pickup_phone&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-29">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="150" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-27" value="Время работы" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-26">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-28" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;pickup_time&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-26">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="190" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-24" value="Описание" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-23">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-25" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;description&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-23">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="230" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-21" value="Страна" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-20">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-22" value="&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;country (2)&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-20">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="270" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-18" value="Регион" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-17">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-19" value="&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;state (3)&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-17">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="310" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-15" value="Город" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-14">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-16" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;city&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-14">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="350" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-7" value="Широта" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-6">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;latitude&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-6">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DkASEynsqYViL9_Ah012-1">
+          <mxGeometry y="390" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-11" value="Долгота" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-10">
+          <mxGeometry width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkASEynsqYViL9_Ah012-12" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;pre style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;longitude&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DkASEynsqYViL9_Ah012-10">
+          <mxGeometry x="145" width="145" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
