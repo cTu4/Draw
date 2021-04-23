@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T11:39:38.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.6.6" etag="3zzAv5vqQCmRNz9iznYe" type="github"><diagram id="SC_uNEaJsRL9zZongtAE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-23T12:37:08.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="z2MQPqN8ZuqsDwmmM7uK" version="14.6.6" type="github">
+  <diagram id="SC_uNEaJsRL9zZongtAE" name="Page-1">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-1" value="vzaimo_total" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="660" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-1">
+          <mxGeometry y="30" width="660" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-3" value="GUID_company" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-2">
+          <mxGeometry width="220" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-4" value="summ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-2">
+          <mxGeometry x="220" width="220" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-5" value="pay" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-2">
+          <mxGeometry x="440" width="220" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-15" value="Methods" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="200" width="1120" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-15">
+          <mxGeometry y="30" width="1120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-17" value="Method" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-16">
+          <mxGeometry width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-18" value="Params (* - обязательный)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-16">
+          <mxGeometry x="200" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-49" value="Description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-16">
+          <mxGeometry x="660" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-15">
+          <mxGeometry y="80" width="1120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-21" value="vzaimo.add" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-20">
+          <mxGeometry width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-22" value="[&quot;XML_ID*&quot;, &quot;summ&quot;, &quot;pay&quot;]" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-20">
+          <mxGeometry x="200" width="460" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-50" value="Добавление данных задолженности компании." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-20">
+          <mxGeometry x="660" width="460" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-15">
+          <mxGeometry y="170" width="1120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-25" value="vzaimo.update" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-24">
+          <mxGeometry width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-26" value="&lt;div&gt;&lt;span&gt;[&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;XML_ID*&quot; =&amp;gt; &quot;1c4f4705-3b7e-11eb-8354-00155d3a4714&lt;/span&gt;&lt;span&gt;&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &quot;summ&quot; =&amp;gt;[&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;event&quot; =&amp;gt; &quot;plus/minus/clear&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;value&quot; =&amp;gt; 1200.00&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; ],&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &quot;pay&quot; =&amp;gt;[&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;event&quot; =&amp;gt; &quot;plus/minus/clear&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;value&quot; =&amp;gt; 132.00&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; ]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-24">
+          <mxGeometry x="200" width="460" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-51" value="Обновление данных задолженности компании.&lt;br&gt;Plus - добавление&lt;br&gt;Munis - вычитание&lt;br&gt;Clear - полное очищение суммы" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-24">
+          <mxGeometry x="660" width="460" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-15">
+          <mxGeometry y="380" width="1120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-35" value="vzaimo.delete" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-34">
+          <mxGeometry width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-36" value="&lt;span&gt;[&quot;XML_ID*&quot;]&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-34">
+          <mxGeometry x="200" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4TSzdBIvpH0DYxghFuOv-52" value="Полное удаление данных задолженности компании" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4TSzdBIvpH0DYxghFuOv-34">
+          <mxGeometry x="660" width="460" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
