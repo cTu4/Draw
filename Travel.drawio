@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T14:01:32.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.10" etag="jehSflrprvfwyfCRFiE6" type="github"><diagram id="KkR43dMxmYtZEsxQvESV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-06T15:06:02.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="PdlB_SKHGTYMar45DpI0" version="14.6.10" type="github">
+  <diagram id="KkR43dMxmYtZEsxQvESV" name="Page-1">
+    <mxGraphModel dx="2500" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="10" width="410" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="905" y="10" width="545" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-14" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Новосибирск&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="10" width="410" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="10" width="410" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-3" value="&lt;b&gt;12.06&lt;br&gt;Москва - Екатеренбург&lt;br&gt;вылет 00-10 прилет 4-35 5.5к на двоих&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="100" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-4" value="&lt;b&gt;вылет 14-10 прилет 18-40 цена 5.5к на двоих&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="270" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-5" value="&lt;b&gt;15.06&lt;br&gt;Екатеринбург - Омск&lt;br&gt;отпр. 21-42 приб. 11-04 16.01&lt;br&gt;&lt;/b&gt;&lt;b&gt;цена 2к на одного&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-6" value="&lt;b&gt;14.06&lt;br&gt;Екатеринбург - Омск&lt;br&gt;отпр. 21-42 приб. 11-04 15.06&lt;br&gt;цена 2к на одного&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="112.5" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-7" value="&lt;b&gt;16.06&lt;br&gt;&lt;/b&gt;&lt;b&gt;Концерт 19-00&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="190" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-8" value="&lt;b&gt;17.06&lt;br&gt;Омск - Новосиб&lt;br&gt;отпр. 02-32 приб. 11-55 18.06&lt;br&gt;цена 1.7к на одного&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="190" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Екатеринбург&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Омск&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1157.5" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-16" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Москва&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-18" value="&lt;b&gt;21.06&lt;br&gt;элка&lt;br&gt;Новосиб - Юрга-1&lt;br&gt;отпр. 9-16 приб. 12-30&lt;br&gt;1 пересадка 17мин&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1719" y="60" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-19" value="&lt;b&gt;21.06&lt;br&gt;элка&lt;br&gt;Новосиб - Юрга-1&lt;br&gt;отпр. 14-12 приб. 18-00&lt;br&gt;1 пересадка 51мин&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1719" y="240" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="10" width="410" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-21" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Юрга&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2425" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-22" value="&lt;b&gt;25.06&lt;br&gt;автобус&lt;br&gt;Юрга_1 - Кемерово&lt;br&gt;отпр. 9-06 приб. 11-30&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="60" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-23" value="&lt;b&gt;25.06&lt;br&gt;автобус&lt;br&gt;Юрга_1 - Кемерово&lt;br&gt;отпр. 11-26 приб. 13-40&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2305" y="250" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="10" width="410" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-25" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Кемерово&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2965" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w8Y7oIjj7ML6W1_DBtrM-26" value="&lt;b&gt;27.06&lt;br&gt;Кемерово - Москва&lt;br&gt;вылет 7-55 прилет 8-20&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="160" width="280" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
