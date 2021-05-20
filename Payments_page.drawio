@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T18:05:56.994Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" version="14.0.5" etag="nHAUveVFk2n4zyEmSH3h" type="github"><diagram id="D4TUFujK3ZJCbcJkW1fv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-20T18:45:26.472Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="j7svTd7VYx-aj7a2UlQd" version="14.0.5" type="github">
+  <diagram id="D4TUFujK3ZJCbcJkW1fv" name="Page-1">
+    <mxGraphModel dx="1877" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-1" value="Отображение оплат" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="700" width="1400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-1">
+          <mxGeometry y="30" width="1400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-3" value="Номер оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-2">
+          <mxGeometry width="233" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-4" value="номер заказа (ссылка на заказ)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-2">
+          <mxGeometry x="233" width="233" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-5" value="&lt;span&gt;дата оплаты&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-2">
+          <mxGeometry x="466" width="233" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-14" value="сумма оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-2">
+          <mxGeometry x="699" width="234" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-79" value="способ оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-2">
+          <mxGeometry x="933" width="234" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-85" value="статус" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-2">
+          <mxGeometry x="1167" width="233" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-17" value="API Payments" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="460" width="1400" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-17">
+          <mxGeometry y="30" width="1400" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-19" value="Идентификатор оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-18">
+          <mxGeometry width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-20" value="Номер оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-18">
+          <mxGeometry x="175" width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-21" value="Идентификатор заказа" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-18">
+          <mxGeometry x="350" width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-30" value="Номер заказа" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-18">
+          <mxGeometry x="525" width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-33" value="Сумма оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-18">
+          <mxGeometry x="700" width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-36" value="Способ оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-18">
+          <mxGeometry x="875" width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-39" value="Дата оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-18">
+          <mxGeometry x="1050" width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-82" value="Статус оплаты" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-18">
+          <mxGeometry x="1225" width="175" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-17">
+          <mxGeometry y="73" width="1400" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-23" value="int" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-22">
+          <mxGeometry width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-24" value="string" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-22">
+          <mxGeometry x="175" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-25" value="int" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-22">
+          <mxGeometry x="350" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-31" value="string" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-22">
+          <mxGeometry x="525" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-34" value="float" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-22">
+          <mxGeometry x="700" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-37" value="string" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-22">
+          <mxGeometry x="875" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-40" value="timestamp" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-22">
+          <mxGeometry x="1050" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-83" value="string" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-22">
+          <mxGeometry x="1225" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-68" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-17">
+          <mxGeometry y="117" width="1400" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-69" value="id_payment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-68">
+          <mxGeometry width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-70" value="number_payment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-68">
+          <mxGeometry x="175" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-71" value="id_order" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-68">
+          <mxGeometry x="350" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-72" value="number_order" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-68">
+          <mxGeometry x="525" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-73" value="summ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-68">
+          <mxGeometry x="700" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-74" value="type_payment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-68">
+          <mxGeometry x="875" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-75" value="date_payment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-68">
+          <mxGeometry x="1050" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-84" value="status" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="X26OXlFVjaDqvWV8TM7p-68">
+          <mxGeometry x="1225" width="175" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-80" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;$response &lt;/span&gt;= [&lt;br&gt;  &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;payments&quot; &lt;/span&gt;=&amp;gt; [&lt;br&gt;    &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;1(id_payment)&quot; &lt;/span&gt;=&amp;gt; [&lt;br&gt;      &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;id_payment&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;number_payment&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1001&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;id_order&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;number_order&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1220&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;summ&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1994.45&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;type_payment&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;Cash&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;date_payment&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1621535289&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;    &lt;/span&gt;]&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;2(id_payment)&quot; &lt;/span&gt;=&amp;gt; [&lt;br&gt;      &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;id_payment&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;number_payment&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1002&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;id_order&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;number_order&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1223&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;summ&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;4551.45&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;type_payment&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;Cash&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;date_payment&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1621535289&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;    &lt;/span&gt;]&lt;br&gt;  ]&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;page&quot; &lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;total_pages&quot;&lt;/span&gt;=&amp;gt; &lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;50&lt;br&gt;&lt;/span&gt;]&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="799" width="260" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="X26OXlFVjaDqvWV8TM7p-81" value="Предусмотреть выдачу по страницам и сортировку по полям.&lt;br&gt;Request data:&lt;br&gt;page: int,&lt;br&gt;order: [ &quot;name_field_1&quot; =&amp;gt; &quot;ASC/DESC&quot;, &quot;name_field_2&quot; =&amp;gt; &quot;ASC/DESC&quot;]" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="820" width="710" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
